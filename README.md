@@ -1,0 +1,9 @@
+# SoftwareStudioAssignment8
+實作過程:
+其實這份作業在client端的code幾乎都是參考助教的sample code即可完成，
+主要要做的工作只有在server端加入JFrame以及JLabel使其能夠在執行過程
+中正常的顯示spac所要求的結果而已。
+所遇到的困難:
+1.一開始進行的時候沒有發現助教所附的sample code中有client端的sample可以
+參考，所以完全不知道該如何下手。
+2.經同學提醒才發現忘了在AndroidManifest.xml中加入spac有提醒要加的東東。
